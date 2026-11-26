@@ -1,16 +1,56 @@
-## Hi there 👋
+# Shaquil Brito
 
-<!--
-**shaquilbrito/shaquilbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Where Logic Meets Art.
 
-Here are some ideas to get you started:
+Computer Engineering Student | Backend Development | Aspiring Entrepreneur
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I'm a Computer Engineering student at Eduardo Mondlane University (UEM), Mozambique.
+
+Passionate about software development, engineering, creativity, education and entrepreneurship.
+
+I believe technology is not only about solving problems, but also about transforming ideas into meaningful experiences.
+
+## Technical Skills
+
+- Python
+- Django
+- Java
+- JavaScript
+- HTML5 & CSS3
+- MySQL
+- SQL
+- Git & GitHub
+
+## Current Interests
+
+- Backend Development
+- Software Engineering
+- Database Systems
+- Web Development
+- Educational Technology
+- Digital Entrepreneurship
+
+## Selected Projects
+
+| Project | Availability |
+|---|---|
+| Water Management System | Private repository |
+| Sistema QI | Private repository |
+| StreamVault EX | Multimedia project |
+| Space Mission Design Game | Educational project |
+| Personal Brand Website | Portfolio |
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/shaquil-brito)
+- Based in Maputo, Mozambique
+
+---
+
+**Engineering · Creativity · Vision**
+
+*The Art of Becoming.*
