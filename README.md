@@ -1,3 +1,5 @@
+![Shaquil Brito — Where Logic Meets Art](./banner-universal.png)
+
 # Shaquil Brito
 
 ### Where Logic Meets Art.
